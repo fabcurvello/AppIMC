@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="app/src/main/res/drawable/balanca.png" width="110" alt="Balança" />
+  <img src="app/src/main/res/drawable-v24/balanca.png" width="110" alt="Balança" />
 </p>
 
 <h1 align="center">Calculadora de IMC — Android Nativo com Java</h1>
